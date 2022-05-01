@@ -6,7 +6,7 @@ This PoC describe how to exploit a Blind SSRF in - WP Ultimate CSV Importer vers
 
 WP Ultimate CSV Importer v6.5.1 plugin for Wordpress does not have protections against SSRF, so it is possible to forge requests to internal services that are not directly exposed, if you know the path.
 
-![1](https://user-images.githubusercontent.com/70114276/166161104-0a4a0cb6-9578-4fb2-8271-5c6a06ce045b.png)
+![9](https://user-images.githubusercontent.com/70114276/166161509-01d83550-1b2e-4050-a0aa-08a8e995dad5.png)
 
 ## Attack Scenario
 
